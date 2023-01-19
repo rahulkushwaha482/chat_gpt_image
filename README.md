@@ -9,6 +9,8 @@ This is a ChatGPT implemented Project which impelement the library https://pub.d
 I have used this to generate the image and text .
 After generation the image you can download it.
 
-#Preview
+## Preview
 
-<img src="recording.mp4" width="480px" /> 
+<video width="320" height="240" autoplay>
+  <source src="movie.mp4" type="video/mp4">
+</video>

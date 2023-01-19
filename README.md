@@ -15,3 +15,4 @@ After generation the image you can download it.
   <source src="recording.mp4" type="video/mp4">
 </video>
 <video src="[recording.mp4](https://github.com/rahulkushwaha482/chat-gpt-image/blob/main/recording.mp4)" width=180/>
+[recording.mp4](https://github.com/rahulkushwaha482/chat-gpt-image/blob/main/recording.mp4)

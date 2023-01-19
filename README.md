@@ -12,5 +12,5 @@ After generation the image you can download it.
 ## Preview
 
 <video width="320" height="240" autoplay>
-  <source src="movie.mp4" type="video/mp4">
+  <source src="recording.mp4" type="video/mp4">
 </video>

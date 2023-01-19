@@ -14,3 +14,4 @@ After generation the image you can download it.
 <video width="320px" height="240px" autoplay>
   <source src="recording.mp4" type="video/mp4">
 </video>
+<video src="recording.mp4" width=180/>

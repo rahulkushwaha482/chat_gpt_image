@@ -12,8 +12,6 @@ After generation the image you can download it.
 ## Preview
 
 
-[recording.mp4](https://github.com/rahulkushwaha482/chat-gpt-image/blob/main/recording.mp4)
-https://github.com/rahulkushwaha482/chat-gpt-image/blob/main/recording.mp4
 
-
+https://user-images.githubusercontent.com/33664603/213389923-714868ca-cff2-416e-8f2c-adcb454d91bc.mp4
 
